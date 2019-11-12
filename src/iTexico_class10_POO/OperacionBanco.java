@@ -15,7 +15,8 @@ public class OperacionBanco {
 
 
 
-
+// Branch operación banco
+    private String opBa;
 
 
 
